@@ -1,3 +1,7 @@
 ini perubahan pertama
 
+<<<<<<< HEAD
 nyobaskut
+=======
+perubahan kedua
+>>>>>>> shov
